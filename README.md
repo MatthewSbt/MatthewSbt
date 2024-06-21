@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Node.js, react and Vue**
 
+- 📫 How to reach me **aggiornamentiutilita@protonmail.com**
+
 - ⚡ Fun fact **I am very funny >-<**
 
 <h3 align="left">Connect with me:</h3>
